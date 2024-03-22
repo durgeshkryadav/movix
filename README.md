@@ -17,9 +17,9 @@ Movix - Ultimate Movie and TV Show Discovery Platform</h2>
 
 - <strong>Fine-Tuned Filters</strong>: Users can apply filters based on various criteria, such as genre, release date, rating, and more, to refine their search results.
 
-<h3>🚀 Live Demo</h3>
+<!-- <h3>🚀 Live Demo</h3>
 
-[https://movix-taupe.vercel.app](https://movix-taupe.vercel.app)
+[https://movix-taupe.vercel.app](https://movix-taupe.vercel.app) -->
 
 <h5>Tending & Popular Movies:</h5>
 
@@ -45,7 +45,7 @@ Movix - Ultimate Movie and TV Show Discovery Platform</h2>
 <p>1. Clone the repository</p>
 
 ```
-git clone https://github.com/masud-rana44/Movix.git
+git clone https://github.com/DGSH9/react-movix-tmdb-api-movie-database
 ```
 
 <p>2. Install the required dependencies </p>
